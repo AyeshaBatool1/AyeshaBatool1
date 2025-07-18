@@ -1,16 +1,36 @@
-## Hi there 👋
+### 👋 Hi, I'm Ayesha Batool
 
-<!--
-**AyeshaBatool1/AyeshaBatool1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS Data Science | Mathematics Graduate  
+🔍 Exploring Machine Learning, Data Analytics & Visualization  
+📊 Tools & Skills: Python • SQL • Power BI • Tableau • Pandas • DAX  
+📈 Passionate about creating meaningful insights from raw data
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+🔹 [🚨 EMS Enforcement Dashboard](https://github.com/AyeshaBatool1/ems_enforcement_dashboard)  
+Designed a Power BI dashboard using SQL Server data to monitor enforcement cases with KPIs, region-wise insights, and time-based trends.
+
+🔹 [📦 Superstore Sales Analysis](https://github.com/AyeshaBatool1/superstore_sales_analysis)  
+Performed data cleaning, EDA, and visualization on a sales dataset using Python (Pandas, Seaborn, Matplotlib) to uncover key business insights.
+
+---
+
+### 🌱 Currently Learning
+
+- Scikit-learn for ML  
+- Regression & Classification Models  
+- Dashboard optimization & DAX  
+- Git & GitHub for version control
+
+---
+
+### 📫 Get in Touch
+
+📧 Email: ayeshabatool875@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-batool-3b0354348)  
+
+---
+
+✨ Thanks for visiting my GitHub! Feel free to explore my projects, connect on LinkedIn, or star any repo you find helpful.
