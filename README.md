@@ -9,7 +9,7 @@
 
 ### 🚀 Featured Projects
 
-🔹 [🚨 EMS Enforcement Dashboard](https://github.com/AyeshaBatool1/ems_enforcement_dashboard)  
+🔹 [🚨 EMS Enforcement Dashboard](https://github.com/AyeshaBatool1/EMS-Enforcement-Dashboard)  
 Designed a Power BI dashboard using SQL Server data to monitor enforcement cases with KPIs, region-wise insights, and time-based trends.
 
 🔹 [📦 Superstore Sales Analysis](https://github.com/AyeshaBatool1/superstore_sales_analysis)  
